@@ -4,7 +4,7 @@
 
 public class MyClass {
     public static void main(String[] args) {
-        //System.out.println(isPrime(8)); --> Example
+        System.out.println(isPrime(8)); //В скобки можно вставить любое число, чтобы проверить его
     }
     static boolean isPrime(long n){
         long j = 2;
